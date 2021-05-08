@@ -1,5 +1,4 @@
-var { Plugin } = window._Plugin
-class nigga extends Plugin {
+class nigga extends  window._Plugin {
   startPlugin() {console.log('hehe')}
   
 }
